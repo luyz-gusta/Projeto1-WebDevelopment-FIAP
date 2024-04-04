@@ -1,0 +1,9 @@
+button{
+    background-color: royalblue;
+    color: whitesmoke;
+    transition: .5s all ease;
+}
+
+button:hover{
+    background-color: cadetblue;
+}
