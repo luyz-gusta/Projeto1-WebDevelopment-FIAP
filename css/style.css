@@ -7,3 +7,21 @@ button{
 button:hover{
     background-color: cadetblue;
 }
+
+
+#calc{
+    background-color: cornflowerblue;
+    color: whitesmoke;
+    transition: .5s all ease;
+}
+
+#calc:hover{
+    background-color: tomato;
+    color: whitesmoke;
+}
+
+#resultado{
+    font-size: 42px;
+    color: navy;
+    margin-left: 10%;
+}
